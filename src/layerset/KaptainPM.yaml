@@ -5,5 +5,5 @@ metadata:
 
 spec:
   layers:
-    - layer-github-flow-strict:[1.1,2.0)
-    - layer-and-layerset-build:[1.3,2.0)
+    - layer-github-flow-strict:[1.2,2.0)
+    - layer-and-layerset-build:[1.4,2.0)
