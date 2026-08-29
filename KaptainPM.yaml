@@ -5,5 +5,4 @@ metadata:
 
 spec:
   layers:
-    - layerset-and-layer-build:[1.4]
-    - layer-gh-release-how-to-use-short-first:[1.1]
+    - layerset-and-layer-build:[1.5]
