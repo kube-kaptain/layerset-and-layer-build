@@ -1,4 +1,4 @@
-apiVersion: kaptain.org/1.11
+apiVersion: kaptain.org/1.29
 kind: layer-and-layerset-build
 metadata:
   description: "Layer and layerset build layerset - composes quality and build settings"
