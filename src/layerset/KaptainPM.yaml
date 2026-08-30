@@ -5,6 +5,6 @@ metadata:
 
 spec:
   layers:
-    - layer-github-flow-strict:[1.3,2.0)
-    - layer-and-layerset-build:[1.6,2.0)
-    - layer-gh-release-how-to-use-short-first:[1.1,2.0)
+    - layer-github-flow-strict:[1.4,2.0)
+    - layer-and-layerset-build:[1.7,2.0)
+    - layer-gh-release-how-to-use-short-first:[1.2,2.0)
